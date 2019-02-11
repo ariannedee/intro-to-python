@@ -1,5 +1,5 @@
 """
-Refactored word guessing game that gets a random word from a file called 'words.txt'
+Refactored word guessing game that gets a random word from the file 'words.txt'
 """
 import random
 

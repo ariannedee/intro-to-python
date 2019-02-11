@@ -21,8 +21,10 @@ print(6 % 2)
 
 print(7 % 2)
 
+print(3**3)
+
 print(math.e)
 
 print(math.pi)
 
-print(3**3)
+print(math.log(100, 10))

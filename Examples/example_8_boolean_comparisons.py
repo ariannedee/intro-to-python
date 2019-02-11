@@ -13,6 +13,6 @@ print()
 print(f'True and not True is {True and not True}')  # Always False
 print(f'True or not True is {True or not True}')    # Always True
 
-raining = True
-snowing = False
-print((raining and snowing) or (not raining and not snowing))  # Use brackets to group
+rain = True
+snow = False
+print((rain and snow) or (not rain and not snow))  # Use brackets to group

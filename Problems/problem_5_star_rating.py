@@ -4,7 +4,8 @@ Fill out the star_rating function that takes an integer from 0 to 5.
 It returns a string with 5 stars, with that number of them are filled in.
 
 The 'assert' function will make the program fail if False is passed in.
-It can be used for easy testing, but libraries like unittest and pytest can be more useful.
+It can be used for easy testing, but libraries like unittest and pytest
+are more useful and have more features.
 """
 
 

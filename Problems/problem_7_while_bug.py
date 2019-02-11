@@ -1,5 +1,5 @@
 """
-This code should start at 10 and count down until 1 and then print "Happy New Year! 🎉"
+Start at 10 seconds and count down until 1 and then print "Happy New Year! 🎉"
 Find the bug
 """
 

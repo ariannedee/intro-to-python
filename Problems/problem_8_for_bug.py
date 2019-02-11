@@ -1,5 +1,7 @@
 """
-This code should request a word from the user and return how many vowels that word contains.
+This code should request a word from the user and return how many vowels that
+word contains.
+
 Find the bug.
 """
 
