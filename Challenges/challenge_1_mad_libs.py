@@ -1,7 +1,3 @@
-"""
-
-"""
-
 # Write a story with some words missing
 story = """
 Roses are {colour}\n
