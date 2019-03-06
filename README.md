@@ -33,13 +33,14 @@ Download here: https://www.jetbrains.com/pycharm/download/
 Install, open, and use the default settings.
 
 ### 3. Download the course files
-Go here: https://github.com/ariannedee/intro-to-python
+If you're viewing this on GitHub already, stay on this page.
+Otherwise, go to the GitHub repository: https://github.com/ariannedee/intro-to-python
 
 #### If you know git:
 Clone the repository.
 
 #### If you don't know git:
-1. Click the "Clone or download" (green) button
+1. Click the "Clone or download" (green) button at the top-right of the page
 2. Click "Download ZIP"
 3. Unzip it and move the **intro-to-python-master** folder to a convenient location
 
