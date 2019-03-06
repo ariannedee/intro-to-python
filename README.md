@@ -1,5 +1,11 @@
-# intro-to-python
-Code for the **Safari Live Training** - Introduction to Python Programming
+# Introduction to Python Programming Live Training
+This is the code for the *Safari Live Training* - **Introduction to Python Programming** presented by Arianne Dee
+
+Before the class, please follow these instructions:
+1. [Install Python](#1-install-python-36-or-higher)
+2. [Install PyCharm](#2-download-pycharm-community-edition)
+3. [Download the code](#3-download-the-course-files)
+4. [Check that Python was installed properly](#4-make-sure-that-python-is-properly-installed)
 
 ## Set up instructions
 ### 1. Install Python 3.6 or higher
