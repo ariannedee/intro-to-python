@@ -17,4 +17,10 @@ It's probably in **C:\Python37** or **C:\Program Files\Python37**, but you can a
 1. In edit mode, go to the end of the line and add **;C:\Python37** or whatever folder *python.exe* is in. 
 Note the semicolon before the path; this will separate it from the previous path.
 
-Follow the instructions [here](../README.md#4-make-sure-that-python-is-properly-installed) to check that the PATH variable was set properly.
+Follow the instructions [here](../README.md#4-make-sure-that-python-is-properly-installed) 
+to check that the PATH variable was set properly.
+
+If you are having problems:
+
+Search the internet for "**Add python to path on Windows *10 / Vista / XP / etc***"
+to find instructions for your version of Windows.
