@@ -1,8 +1,8 @@
 # Write a story with some words missing
 story = """
-Roses are {colour}\n
-Violets are {colour2}\n
-Sugar is {adjective}\n
+Roses are {colour}
+Violets are {colour2}
+Sugar is {adjective}
 And so are you
 """
 

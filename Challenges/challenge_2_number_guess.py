@@ -10,7 +10,8 @@ import random
 
 
 def run_game():
-    number = random.randint(1, 20)
+    answer = random.randint(1, 20)
+
     print("I'm thinking of a number between 1 and 20")
 
     guess = int(input("Guess a number: "))
