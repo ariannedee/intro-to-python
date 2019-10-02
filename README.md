@@ -62,3 +62,28 @@ in *Command Prompt* or *Terminal*
 to run the Python interpreter.
 You can also run a *.py* file by running 
 `python filename.py`
+
+## FAQs
+### Can I use Python 2?
+
+Yes, but I highly recommend using Python 3. If you are using Python 2, a few commands will be different. I will mention them throughout the class.
+
+### Can I use a different code editor besides PyCharm?
+
+Yes, but it is only recommended if you are already know it and are comfortable navigating to different files and running commands in the command line. If it has syntax highlighting for Python, that is ideal.
+
+### PyCharm can't find Python 3
+
+On a Mac:
+- Go to **PyCharm** > **Preferences**
+
+On a PC:
+- Go to **File** > **Settings**
+
+Once in Settings:
+- Go to **Project: intro-to-python** > **Project Interpreter**
+- Look for your Python version in the Project Interpreter dropdown
+- If it's not there, click **gear icon** > **Add...**
+- In the new window, select **System Interpreter** on the left, and then look for the Python version in the dropdown
+- If it's not there, click the **...** button and navigate to your Python location
+- You may have to search the internet for where Python gets installed by default on your operating system
