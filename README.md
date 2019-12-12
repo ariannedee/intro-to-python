@@ -53,7 +53,7 @@ or *Terminal* on Mac or Linux
 1. Type `python3 --version` and press enter
 
 1. One or both of those commands should print 
-a Python version of 3.7.1 or higher 
+a Python version of 3.6 or higher 
 (whichever version you just downloaded)
 
 **Note:** 
