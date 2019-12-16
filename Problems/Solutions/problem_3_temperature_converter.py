@@ -8,4 +8,4 @@ temp_in_f = float(input('Temp in F: '))
 temp_in_c = (temp_in_f - 32) * 5/9
 
 # Tell the user what it is
-print('Temp in C: ' + str(temp_in_c))
+print('Temp in C: {}'.format(temp_in_c))

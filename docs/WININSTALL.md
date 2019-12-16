@@ -2,7 +2,7 @@
 The Python installer for Windows doesn't use the optimal default settings.
 Follow these instructions when running the installer.
 If you have already installed Python with the default settings,
-follow the instructions here instead: [add Python to the PATH variable](docs/WINSETPATH.md)
+follow the instructions here instead: [add Python to the PATH variable](WINSETPATH.md)
 
 1. Check the *Add Python to PATH* box
 2. Choose the *Customize installation* option

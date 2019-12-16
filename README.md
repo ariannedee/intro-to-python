@@ -52,12 +52,14 @@ or *Terminal* on Mac or Linux
 
 1. Type `python3 --version` and press enter
 
-1. One or both of those commands should print 
+1. Type `py --version` and press enter (Windows)
+
+1. At least one of these commands should print 
 a Python version of 3.6 or higher 
 (whichever version you just downloaded)
 
 **Note:** 
-You can now type just the `python` or `python3` command
+You can now type just the `python` or `python3` or `py` command
 in *Command Prompt* or *Terminal* 
 to run the Python interpreter.
 You can also run a *.py* file by running 
