@@ -8,5 +8,6 @@ def say_hello(name, capitalize=False):
     return 'Hello ' + name
 
 
-print(say_hello('arianne'))
-print(say_hello('arianne', True))
+print(say_hello('beyoncé'))
+print(say_hello('beyoncé', True))
+print(say_hello(name='beyoncé', capitalize=True))
