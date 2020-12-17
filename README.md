@@ -42,41 +42,24 @@ Otherwise, go to the GitHub repository: https://github.com/ariannedee/intro-to-p
 Clone the repository.
 
 #### If you don't know git:
-1. Click the "Clone or download" (green) button at the top-right of the page
+1. Click the green "↓ Code" button at the top-right of the page
 2. Click "Download ZIP"
 3. Unzip it and move the **intro-to-python-master** folder to a convenient location
 
-### 4. Make sure that Python is properly installed
-1. Open the *Command Prompt* application in Windows
-or *Terminal* on Mac or Linux
+### 4. Make sure that you can run Python in PyCharm
+1. Open PyCharm (skip any configuration steps) and open
+the **intro-to-python-master** folder 
 
-1. Type `python --version` and press enter
+1. Navigate to `Examples/example_1_first_code.py` and double click to open it in the editor
 
-1. Type `python3 --version` and press enter
+1. On the open file, right click and select **Run 'example_1_first_code'**
 
-1. Type `py --version` and press enter (Windows)
+1. In the Run tab on the bottom, you should see
+`Process finished with exit code 0`
 
-1. At least one of these commands should print 
-a Python version of 3.6 or higher 
-(whichever version you just downloaded)
+1. If you got an error, follow the instructions for setting your Python version in PyCharm
 
-**Note:** 
-You can now type just the `python` or `python3` or `py` command
-in *Command Prompt* or *Terminal* 
-to run the Python interpreter.
-You can also run a *.py* file by running 
-`python filename.py`
-
-## FAQs
-### Can I use Python 2?
-
-Yes, but I highly recommend using Python 3. If you are using Python 2, a few commands will be different. I will mention them throughout the class.
-
-### Can I use a different code editor besides PyCharm?
-
-Yes, but it is only recommended if you are already know it and are comfortable navigating to different files and running commands in the command line. If it has syntax highlighting for Python, that is ideal.
-
-### PyCharm can't find Python 3
+### Setting your Python version in PyCharm
 
 On a Mac:
 - Go to **PyCharm** > **Preferences**
@@ -91,3 +74,21 @@ Once in Settings:
 - In the new window, select **System Interpreter** on the left, and then look for the Python version in the dropdown
 - If it's not there, click the **...** button and navigate to your Python location
 - You may have to search the internet for where Python gets installed by default on your operating system
+
+If you are having trouble with this step,
+there will also be a visual guide in the PDF resource that you can download
+at the beginning of the class. 
+Please log on 15 minutes early to download the guide and follow the steps.
+
+## FAQs
+### Can I use Python 2?
+
+Yes, but I highly recommend using Python 3. If you are using Python 2, a few commands will be different. I will mention them throughout the class.
+
+### Can I use a different code editor besides PyCharm?
+
+Yes, but it is only recommended if you are already know it and are comfortable navigating to different files and running commands in the command line. If it has syntax highlighting for Python, that is ideal.
+
+### PyCharm can't find Python 3
+
+Follow the instructions for [setting your Python version in PyCharm](#setting-your-python-version-in-pycharm)

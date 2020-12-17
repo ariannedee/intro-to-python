@@ -19,8 +19,19 @@ but you can always just search for it.
 1. In edit mode, go to the end of the line and add **;C:\Python38** or whatever folder *python.exe* is in. 
 Note the semicolon before the path; this will separate it from the previous path.
 
-Follow the instructions [here](../README.md#4-make-sure-that-python-is-properly-installed) 
-to check that the PATH variable was set properly.
+To check that the PATH variable was set properly:
+1. Open the *Command Prompt* application in Windows
+or *Terminal* on Mac or Linux
+
+1. Type `python --version` and press enter
+
+1. Type `python3 --version` and press enter
+
+1. Type `py --version` and press enter (Windows)
+
+1. At least one of these commands should print 
+a Python version of 3.6 or higher 
+(whichever version you just downloaded)
 
 If you are having problems:
 
