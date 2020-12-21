@@ -47,19 +47,23 @@ Clone the repository.
 3. Unzip it and move the **intro-to-python-master** folder to a convenient location
 
 ### 4. Make sure that you can run Python in PyCharm
-1. Open PyCharm (skip any configuration steps) and open
-the **intro-to-python-master** folder 
+1. Open PyCharm (skip any configuration/tip windows)
+   
+1. Navigate to the **intro-to-python-master** folder and click **Open**
 
-1. Navigate to `Examples/example_1_first_code.py` and double click to open it in the editor
+1. You should now have PyCharm open with the folder structure in the left side panel
+   
+1. In the left panel, navigate to `Examples/example_1_first_code.py` and double click to open it in the editor
 
 1. On the open file, right click and select **Run 'example_1_first_code'**
 
 1. In the Run tab on the bottom, you should see
 `Process finished with exit code 0`
 
-1. If you got an error, follow the instructions for setting your Python version in PyCharm
+1. Otherwise, if you got an error (exit code 1 in red), follow the instructions for setting your Python version in PyCharm below
 
-### Setting your Python version in PyCharm
+
+### If you received an error running example_1_first_code, set your Python version in PyCharm
 
 On a Mac:
 - Go to **PyCharm** > **Preferences**
@@ -69,14 +73,15 @@ On a PC:
 
 Once in Settings:
 - Go to **Project: intro-to-python** > **Project Interpreter**
-- Look for your Python version in the Project Interpreter dropdown
-- If it's not there, click **gear icon** > **Add...**
+- Look for your Python version in the Project Interpreter dropdown and select it. Please use Python 3.6 or higher.
+- If you found it, click OK and try running `example_1_first_code` again
+- Otherwise, if your version wasn't there, click **gear icon** > **Add...**
 - In the new window, select **System Interpreter** on the left, and then look for the Python version in the dropdown
 - If it's not there, click the **...** button and navigate to your Python location
-- You may have to search the internet for where Python gets installed by default on your operating system
+- **Note:** For this last step, you may have to search the internet for where Python gets installed by default on your operating system
 
-If you are having trouble with this step,
-there will also be a visual guide in the PDF resource that you can download
+If you are having trouble configuring your Python version,
+there will be a visual guide in the PDF resource that you can download
 at the beginning of the class. 
 Please log on 15 minutes early to download the guide and follow the steps.
 

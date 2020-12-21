@@ -7,6 +7,9 @@ print("hello world")
 
 print('hello \n world')
 
+name = 'world'
+print(f'hello {name}')
+
 print(2 + 2)
 
 print(123 * 456)
