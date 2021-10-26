@@ -11,6 +11,8 @@
 ## 3a. Select an existing interpreter
 
    <img width="60%" src="img/pycharm_python_3a.png">
+   
+   If your desired version was found, click OK. If not, go on to 3b.
 
 ## 3b. Add a new interpreter
 
@@ -22,12 +24,15 @@
 ## 5a. Select an existing system interpreter
 
    <img width="60%" src="img/pycharm_python_5a.png">
+   
+   If your desired version was found, click OK. If not, go on to 5b.
 
 ## 5b. Find your system interpreter
 
    <img width="60%" src="img/pycharm_python_5b.png">
 
-If you’re not sure where to find it, try one of the following locations:
+If you’re not sure where to find it, try one of the following locations
+(replace 3.9 or 39 with the desired version number):
 
 ### Windows (look for python.exe)
 - C:\Python39
