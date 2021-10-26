@@ -81,9 +81,7 @@ Once in Settings:
 - **Note:** For this last step, you may have to search the internet for where Python gets installed by default on your operating system
 
 If you are having trouble configuring your Python version,
-there will be a visual guide in the PDF resource that you can download
-at the beginning of the class. 
-Please log on 15 minutes early to download the guide and follow the steps.
+you can find visual instructions here: [PyCharm virtual environment setup](docs/PyCharm_venv.md)
 
 ## FAQs
 ### Can I use Python 2?
