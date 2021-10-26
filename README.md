@@ -81,7 +81,7 @@ Once in Settings:
 - **Note:** For this last step, you may have to search the internet for where Python gets installed by default on your operating system
 
 If you are having trouble configuring your Python version,
-you can find visual instructions here: [PyCharm virtual environment setup](docs/PyCharm_venv.md)
+you can find visual instructions here: [Python interpreter setup](docs/PyCharm_interpreter.md)
 
 ## FAQs
 ### Can I use Python 2?
