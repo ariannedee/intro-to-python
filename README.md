@@ -86,7 +86,7 @@ you can find visual instructions here: [Python interpreter setup](docs/PyCharm_i
 ## FAQs
 ### Can I use Python 2?
 
-Yes, but I highly recommend using Python 3. If you are using Python 2, a few commands will be different. I will mention them throughout the class.
+Yes, but I highly recommend using Python 3. If you are using Python 2, a few commands will be different. Refer to the last page of the PDF handout provided in the class resources.
 
 ### Can I use a different code editor besides PyCharm?
 
