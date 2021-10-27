@@ -12,6 +12,6 @@ follow the instructions here instead: [add Python to the PATH variable](WINSETPA
  <img width="60%" src="img/installer_2.png">
 
 4. Check the *Install for all users* box
-5. Customize the install location: **C:\Python37** or whatever version number you're installing
+5. Customize the install location: **C:\Python39** or whatever version number you're installing
 6. Click *Install*
  <img width="60%" src="img/installer_3.png">
