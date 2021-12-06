@@ -94,4 +94,4 @@ Yes, but it is only recommended if you are already know it and are comfortable n
 
 ### PyCharm can't find Python 3
 
-Follow the instructions for [setting your Python version in PyCharm](#setting-your-python-version-in-pycharm)
+Follow the instructions for [Python interpreter setup](docs/PyCharm_interpreter.md)
