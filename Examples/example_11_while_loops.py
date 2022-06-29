@@ -1,6 +1,6 @@
 x = 3
 
-while x >= 0:  # Will keep looping until condition is met
+while x >= 0:  # Will keep looping until condition is False
     print(x)
     x = x - 1
 
