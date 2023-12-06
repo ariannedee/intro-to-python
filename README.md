@@ -5,13 +5,13 @@ This is the code for the *O'Reilly Live Training* - **Introduction to Python Pro
 If you are looking for the code for the LiveLessons video, go here [https://github.com/ariannedee/intro-to-python-livelessons](https://github.com/ariannedee/intro-to-python-livelessons)
 
 Before the class, please follow these instructions:
-1. [Install Python](#1-install-python-36-or-higher)
+1. [Install Python](#1-install-python-38-or-higher)
 2. [Install PyCharm](#2-download-pycharm-community-edition)
 3. [Download the code](#3-download-the-course-files)
 4. [Make sure that you can run Python in PyCharm](#4-make-sure-that-you-can-run-python-in-pycharm)
 
 ## Set up instructions
-### 1. Install Python 3.6 or higher
+### 1. Install Python 3.8 or higher
 Go to https://www.python.org/downloads/
 
 Click the yellow button at the top to download the latest version of Python.
@@ -45,12 +45,12 @@ Clone the repository.
 #### If you don't know git:
 1. Click the green "↓ Code" button at the top-right of the page
 2. Click "Download ZIP"
-3. Unzip it and move the **intro-to-python-master** folder to a convenient location
+3. Unzip it and move the **intro-to-python-main** folder to a convenient location
 
 ### 4. Make sure that you can run Python in PyCharm
 1. Open PyCharm (skip any configuration/tip windows)
    
-1. Navigate to the **intro-to-python-master** folder and click **Open**
+1. Navigate to the **intro-to-python-main** folder and click **Open**
 
 1. You should now have PyCharm open with the folder structure in the left side panel
    
