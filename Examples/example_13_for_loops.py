@@ -1,4 +1,4 @@
-# Use range() to loop through a list of numbers
+# Use range(start, stop, step=1) to loop through a list of numbers
 for i in range(10):
     print(i)
 print()

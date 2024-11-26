@@ -20,6 +20,8 @@ if temp <= 0:
     print("It's freezing")
 elif temp >= 100:
     print("It's boiling")
+elif temp >= 50:
+    print("It's hot")
 else:
     print("It's just water")
 

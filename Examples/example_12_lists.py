@@ -9,13 +9,13 @@ print()
 
 
 # Adding, removing, and updating
-movies = ['Blindspoting', 'Black Panther', 'Annihilation']
+languages = ['English', 'French', 'Mandarin']
 
-movies[0] = 'Blindspotting'
-movies.append('Sorry to Bother You')                # Adds item to end of list
-movies.insert(1, 'Won\'t You Be My Neighbour')      # Adds item to list at index
-movies.remove('Annihilation')
-print(movies)
+languages[0] = 'Icelandic'
+languages.append('Tagalog')     # Adds item to end of list
+languages.insert(1, 'Spanish')  # Adds item to list at index
+languages.remove('Mandarin')
+print(languages)
 
 
 # More list methods
