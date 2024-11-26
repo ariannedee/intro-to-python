@@ -8,4 +8,4 @@ temp_f = input("Temp in F: ")
 temp_c = None
 
 # Tell the user what it is
-print("Temp in C: ")
+print("Temp in C: " + temp_c)

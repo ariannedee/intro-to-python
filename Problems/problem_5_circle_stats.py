@@ -5,11 +5,11 @@ Print the result to the user.
 
 
 def area(r):
-    pass
+    ...
 
 
 def circumference(r):
-    pass
+    ...
 
 
 radius = input("Circle radius: ")
