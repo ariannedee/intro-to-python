@@ -15,7 +15,7 @@ print()
 primes = [1, 2, 3, 5, 7, 11, 13]
 # Can loop over lists
 for number in primes:
-    print(number)
+    print(f'The square of {number} is {number ** 2}')
 
 
 # If you need to know the index, use enumerate()
