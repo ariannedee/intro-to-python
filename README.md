@@ -2,7 +2,9 @@
 
 This is the code for the *O'Reilly Live Training* - **Introduction to Python Programming** presented by Arianne Dee
 
-If you are looking for the code for the LiveLessons video, go here [https://github.com/ariannedee/intro-to-python-livelessons](https://github.com/ariannedee/intro-to-python-livelessons)
+If you are looking for other Intro to Python content by Arianne:
+- [Intro to Python LiveLessons video (2nd edition)](https://github.com/ariannedee/intro-to-python-2ed)
+- [Intro to Python LiveLessons video (old)](https://github.com/ariannedee/intro-to-python-livelessons)
 
 Before the class, please follow these instructions:
 1. [Install Python](#1-install-python-38-or-higher)
@@ -37,18 +39,18 @@ Clone the repository from the URL in the "< > Code"
 ### 4. Make sure that you can run Python in PyCharm
 1. Open PyCharm (skip any configuration/tip windows)
    
-1. Navigate to the **intro-to-python-main** folder and click **Open**
+2. Navigate to the **intro-to-python-main** folder and click **Open**
 
-1. You should now have PyCharm open with the folder structure in the side panel on the left
+3. You should now have PyCharm open with the folder structure in the side panel on the left
    
-1. In the left panel, navigate to `Examples/example_1_first_code.py` and double-click to open it in the editor
+4. In the left panel, navigate to `Examples/example_1_first_code.py` and double-click to open it in the editor
 
-1. On the open file, right-click and select **Run 'example_1_first_code'**
+5. On the open file, right-click and select **Run 'example_1_first_code'**
 
-1. In the Run tab on the bottom, you should see
+6. In the Run tab on the bottom, you should see
 `Process finished with exit code 0`
 
-1. Otherwise, if you got an error (exit code 1 in red), follow [these instructions](https://github.com/ariannedee/python-ide/blob/main/docs/PYTHON-IDE.md/#pycharm)
+7. Otherwise, if you got an error (exit code 1 in red), follow [these instructions](https://github.com/ariannedee/python-ide/blob/main/docs/PYTHON-IDE.md/#pycharm)
 for setting your Python version in PyCharm.
 
 ## FAQs
