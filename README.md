@@ -18,7 +18,7 @@ Go to https://www.python.org/downloads/
 
 Click the yellow button at the top to download the latest version of Python.
 
-Follow [these instructions] (https://github.com/ariannedee/python-ide?tab=readme-ov-file#1-installing-python)
+Follow [these instructions](https://github.com/ariannedee/python-ide?tab=readme-ov-file#1-installing-python)
 if you need additional help installing or running Python on your computer.
 
 ### 2. Download PyCharm
