@@ -1,10 +1,13 @@
 # Indexing and slicing
 new_list = [0, 1, 2, 3]
 
-print(new_list[1])
+print(new_list[1])   # First item
+print(new_list[-1])  # Last item
 print(new_list[1:3])
 print(new_list[:2])
 print(new_list[2:])
+print(new_list[::2])
+print(new_list[::-1])
 print()
 
 
@@ -12,6 +15,7 @@ print()
 languages = ['English', 'French', 'Mandarin']
 
 languages[0] = 'Icelandic'
+del languages[1]
 languages.append('Tagalog')     # Adds item to end of list
 languages.insert(1, 'Spanish')  # Adds item to list at index
 languages.remove('Mandarin')
